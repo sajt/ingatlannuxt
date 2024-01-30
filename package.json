@@ -9,11 +9,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "^3.9.3",
-    "vue": "^3.4.14",
-    "vue-router": "^4.2.5",
+    "@nuxt/devtools": "^1.0.8",
     "@nuxt/devtools-ui-kit": "^1.0.8",
     "@nuxt/ui": "^2.12.3",
+    "nuxt": "^3.9.3",
     "nuxt-mongoose": "^1.0.4"
   }
 }

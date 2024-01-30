@@ -6,6 +6,5 @@ const readyState = ref(data.value ?? 0)
 <template>
 <div h-screen>
   {{ readyState }}
-  <NuxtPage />
 </div>
 </template>
